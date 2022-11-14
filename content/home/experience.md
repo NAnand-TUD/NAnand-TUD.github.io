@@ -22,11 +22,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Senior Researcher
+    company: VITO
+    company_url: 'www.vito.be'
     company_logo: org-gc
-    location: California
+    location: Genk, The Belgium.
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
@@ -36,11 +36,38 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Researcher
+    company: Delft University of Technology
+    company_url: 'www.tudelft.nl'
     company_logo: org-x
-    location: California
+    location: Delft, The Netherlands.
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: PhD Candidate
+    company: Delft University of Technology
+    company_url: 'www.tudelft.nl'
+    company_logo: org-x
+    location: Delft, The Netherlands.
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Researcher Student
+    company: Triogen BV
+    company_url: 'www.tudelft.nl'
+    company_logo: org-x
+    location: Delft, The Netherlands.
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+
+  - title: Assisstant Manager
+    company: Mahindra & Mahindra Automotive
+    company_url: 'www.mnm.nl'
+    company_logo: org-x
+    location: Chennai, India.
     date_start: '2016-01-01'
     date_end: '2020-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
