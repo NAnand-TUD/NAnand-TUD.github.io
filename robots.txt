@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://nanand-tud.github.io/sitemap.xml
+Sitemap: https://nanand-tud.github.io/public/sitemap.xml
