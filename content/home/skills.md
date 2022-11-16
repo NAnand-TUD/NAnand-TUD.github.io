@@ -20,12 +20,16 @@ feature:
     icon: python
     icon_pack: fab
     name: python
-  - description: 100%
-    icon: C++
+  - description: 70%
+    icon: git
+    icon_pack: fas
+    name: Statistics
+  - description: 90%
+    icon: Unix
     icon_pack: fas
     name: Statistics
   - description: 10%
-    icon: camera-retro
+    icon: Tex
     icon_pack: fas
     name: Photography
 # Uncomment to use emoji icons.
