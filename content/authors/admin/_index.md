@@ -50,6 +50,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:nitish.ug2@gmail.com'
+    display:
+      header: true
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -59,12 +61,18 @@ social:
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=UaDqTb8AAAAJ&hl=en
+    display:
+      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/NAnand-TUD
+    display:
+      header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/nitishanand
+    display:
+      header: true
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
