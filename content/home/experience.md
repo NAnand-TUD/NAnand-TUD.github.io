@@ -26,7 +26,7 @@ experience:
     company: VITO
     company_url: 'www.vito.be'
     company_logo: org-gc
-    location: Genk, The Belgium.
+    location: Genk, Belgium.
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
