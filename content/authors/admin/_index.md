@@ -10,7 +10,9 @@ last_name: Anand
 superuser: true
 
 # Role/position/tagline
-role: Senior Reseacher, Thermal Energy Systems Group.
+role: Senior Reseacher, 
+Thermal Energy Systems Group, 
+Energy Technology Unit.
 
 # Organizations/Affiliations to show in About widget
 organizations:
