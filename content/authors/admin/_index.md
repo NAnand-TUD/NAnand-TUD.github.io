@@ -61,6 +61,16 @@ social:
     link: https://scholar.google.com/citations?user=UaDqTb8AAAAJ&hl=en
     display:
       header: true
+  - icon: research-gate # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Nitish-Anand-3
+    display:
+      header: true
+  - icon: orcid # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://orcid.org/my-orcid?orcid=0000-0002-0240-0978
+    display:
+      header: true
   - icon: github
     icon_pack: fab
     link: https://github.com/NAnand-TUD
