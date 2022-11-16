@@ -61,7 +61,7 @@ social:
     link: https://scholar.google.com/citations?user=UaDqTb8AAAAJ&hl=en
     display:
       header: true
-  - icon: research-gate # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://www.researchgate.net/profile/Nitish-Anand-3
     display:
