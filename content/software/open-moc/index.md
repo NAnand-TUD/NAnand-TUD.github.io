@@ -1,5 +1,5 @@
 ---
-title: HOCLOOP
+title: Open-MoC
 summary: Heat Exchanger design for Additive Manufacturing
 tags:
   - Deep Learning
@@ -11,6 +11,7 @@ external_link: ''
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+  url: https://su2code.github.io/img/logos/logoSU2.png
 
 links:
   - icon: twitter

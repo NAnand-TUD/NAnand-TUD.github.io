@@ -1,6 +1,6 @@
 ---
-title: HOCLOOP
-summary: Heat Exchanger design for Additive Manufacturing
+title: ParaBlade
+summary: CAD-Based Blade parametrization tool.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
@@ -11,6 +11,7 @@ external_link: ''
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+  url: https://github.com/NAnand-TUD/parablade/blob/master/docs/figures/ParaBladeLogo.png
 
 links:
   - icon: twitter
