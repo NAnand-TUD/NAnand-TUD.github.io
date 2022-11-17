@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: IAMHEX
+summary: Heat Exchanger design for Additive Manufacturing
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
