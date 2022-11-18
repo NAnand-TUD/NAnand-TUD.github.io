@@ -96,8 +96,8 @@ email: 'nitish.ug2@gmail.com'
 highlight_name: true
 ---
 
-Coming soon.
+Nitish is a young doctorate from the Delft University of Technology. He specializes in advanced fluid dynamics, numerical methods, optimization methods and adjoint-based methods. 
 
-Coming soon.
+Currently, he is working as a Senior Researcher at the Thermal Energy Systems group of Vlaams Instelling Voor Technologisch Onderzoek (VITO), Belgium. His research areas include the analysis and design of thermal energy conversion devices.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
