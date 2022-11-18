@@ -3,7 +3,7 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: features
 
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
@@ -18,22 +18,19 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description:
     icon: python
     icon_pack: fab
-    name: python
-  - description: 70%
-    icon: git
-    icon_pack: fas
-    name: Statistics
-  - description: 90%
-    icon: Unix
-    icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: Tex
-    icon_pack: fas
-    name: Photography
+    name: Python
+  - description:
+    icon: square-git
+    icon_pack: fab
+    name: Git
+  - description:
+    icon: square-terminal
+    icon_pack: fab
+    name: Terminal
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
