@@ -27,8 +27,8 @@ feature:
     icon_pack: fab
     name: Git
   - description:
-    icon: solid square-terminal
-    icon_pack: fab
+    icon: square-terminal
+    icon_pack: fas
     name: Terminal
 
 # Uncomment to use emoji icons.
