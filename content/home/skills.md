@@ -30,10 +30,6 @@ feature:
     icon: terminal
     icon_pack: far
     name: Terminal
-  - description:
-    icon: microchip-ai
-    icon_pack: far
-    name: Terminal
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

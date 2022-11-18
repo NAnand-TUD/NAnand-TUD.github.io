@@ -56,6 +56,16 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/nitishanand
+    display:
+      header: true
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/NAnand-TUD
+    display:
+      header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=UaDqTb8AAAAJ&hl=en
@@ -69,16 +79,6 @@ social:
   - icon: orcid # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://orcid.org/my-orcid?orcid=0000-0002-0240-0978
-    display:
-      header: true
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/NAnand-TUD
-    display:
-      header: true
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/nitishanand
     display:
       header: true
 
