@@ -27,7 +27,7 @@ feature:
     icon_pack: fab
     name: Git
   - description:
-    icon: solid-square-terminal
+    icon: solid square-terminal
     icon_pack: fab
     name: Terminal
 
