@@ -1,17 +1,16 @@
 ---
 title: SU2
-summary: Heat Exchanger design for Additive Manufacturing
-tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+summary: Open-souce CFD Analysis and Design Suite.
+# tags:
+#   - Deep Learning
+# date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: SU2
   focal_point: Smart
-  url: https://su2code.github.io/img/logos/logoSU2.png
 
 links:
   - icon: twitter
