@@ -1,23 +1,25 @@
 ---
-title: 'An example conference paper'
+title: 'Assessment of FFD and CAD-based shape parametrization methods for adjoint-based turbomachinery shape optimization.'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - N Anand
+  - S Vitale
+  - M Pini
+  - P Colonna
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2018'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2018'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,13 +28,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: GPPS
+publication_short: Global Propulsion and Power Conference.
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In automated design of turbomachinery, the method used to parametrize the blade shapes is key to ensure robustness and design flexibility of the entire optimization process. Typically, the two adopted methods are free-form deformation and computer-aided design based parametrization. The former allows for a large design flexibility, but it entails challenges to satisfy prescribed geometrical constraints. By contrast, the latter ensures a better control of the blade shape, but at the cost of narrowing down the design space. In this study, we aim at providing a unified methodology for a systematic assessment of the two methods by resorting to the adjoint method. A first comparison is conducted by carrying out shape optimization on a two-dimensional axial turbine cascade. The results indicate that, though the fluid-dynamic performance of the two optimal blade configurations are similar, the shapes are comparatively different, meaning that the optimization problem has multiple optima and that the type of parametrization is influencing the solution of the optimization problem.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -44,14 +46,14 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_pdf: 'https://www.researchgate.net/profile/Nitish-Anand-3/publication/325070829_Assessment_of_FFD_and_CAD-based_shape_parametrization_methods_for_adjoint-based_turbomachinery_shape_optimization/links/5b3cb759aca27207850b07e8/Assessment-of-FFD-and-CAD-based-shape-parametrization-methods-for-adjoint-based-turbomachinery-shape-optimization.pdf'
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
