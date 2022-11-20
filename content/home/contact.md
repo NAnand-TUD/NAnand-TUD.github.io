@@ -26,6 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: nitish.anand@vito.be
+  email: nitish.ug2@gmail.com
   # phone: 888 888 88 88
   address:
     street: Energy Ville 1
@@ -34,9 +35,9 @@ content:
     postcode: 3600
     country: Belgium
     country_code: BE
-  # coordinates:
-  #   latitude: '37.4275'
-  #   longitude: '-122.1697'
+  coordinates:
+    latitude: '37.4275'
+    longitude: '-122.1697'
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
