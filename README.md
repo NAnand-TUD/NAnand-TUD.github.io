@@ -1,4 +1,4 @@
-# My Personal WebPage.
+# My Personal Webpage
 
 This repository is adapted from the Hugo Academic template.
 
