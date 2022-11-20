@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nitish Anand</title><link>https://nanand-tud.github.io/</link><atom:link href="https://nanand-tud.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Nitish Anand</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://nanand-tud.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Nitish Anand</title><link>https://nanand-tud.github.io/</link></image><item><title>Example Talk</title><link>https://nanand-tud.github.io/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://nanand-tud.github.io/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Nitish Anand</title><link>https://nanand-tud.github.io/</link><atom:link href="https://nanand-tud.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Nitish Anand</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://nanand-tud.github.io/media/icon_hu05587d26c527f3f227ef3ad844a52aba_42077_512x512_fill_lanczos_center_3.png</url><title>Nitish Anand</title><link>https://nanand-tud.github.io/</link></image><item><title>Example Talk</title><link>https://nanand-tud.github.io/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://nanand-tud.github.io/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
 &lt;/div>
@@ -211,7 +211,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-167839452" class="chart">&lt;/div>
+&lt;div id="chart-698253174" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -220,7 +220,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-167839452', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-698253174', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
