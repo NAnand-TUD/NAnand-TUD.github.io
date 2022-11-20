@@ -28,7 +28,7 @@ feature:
     name: Git
   - description:
     icon: linux
-    icon_pack: far
+    icon_pack: fab
     name: Terminal
 
 # Uncomment to use emoji icons.
