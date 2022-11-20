@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: nitish.anand@vito.be
-  phone: 888 888 88 88
+  # phone: 888 888 88 88
   address:
     street: Energy Ville 1
     city: Thor Park 8310

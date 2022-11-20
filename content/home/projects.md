@@ -41,8 +41,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: masonry
-  background: {}
+  view: Showcase
+  # background: {}
   spacing: {padding: [0, 0, 0, 0]}
 
   # For Showcase view, flip alternate rows?
