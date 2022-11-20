@@ -9,8 +9,7 @@ summary: Open-souce CFD Analysis and Design Suite.
 external_link: ''
 
 image:
-  caption: SU2
-  focal_point: Smart
+  caption: SU2 Logo
 
 links:
   - icon: github

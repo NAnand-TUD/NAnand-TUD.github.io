@@ -9,17 +9,16 @@ summary: MoC to design supesonic aerodynamic designs.
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  caption: open-MoC Logo
 
 links:
   - icon: github
     icon_pack: fab
     name: Code
     url_code: 'https://github.com/NAnand-TUD/open-moc'
-url_pdf: ''
-url_slides: ''
-url_video: ''
+# url_pdf: ''
+# url_slides: ''
+# url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
