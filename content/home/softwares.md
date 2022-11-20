@@ -4,7 +4,7 @@
 widget: portfolio
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 40
@@ -34,7 +34,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
