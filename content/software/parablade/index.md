@@ -14,7 +14,7 @@ image:
 links:
   - icon: github
     icon_pack: fab
-    url_code: 'https://github.com/NAnand-TUD/parablade'
+    url: 'https://github.com/NAnand-TUD/parablade'
 url_pdf: ''
 url_slides: ''
 url_video: ''

@@ -15,7 +15,7 @@ links:
   - icon: github
     icon_pack: fab
     name: Code
-    url_code: 'https://github.com/NAnand-TUD/open-moc'
+    url: 'https://github.com/NAnand-TUD/open-moc'
 # url_pdf: ''
 # url_slides: ''
 # url_video: ''
