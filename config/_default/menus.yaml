@@ -10,9 +10,9 @@ main:
   - name: Softwares
     url: '#softwares'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
+  # - name: Projects
+  #   url: '#projects'
+  #   weight: 30
   - name: Publications
     url: '#featured'
     weight: 40
