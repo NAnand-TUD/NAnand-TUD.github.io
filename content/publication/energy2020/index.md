@@ -38,7 +38,7 @@ abstract: Supersonic stator vanes account for two-thirds of the fluid-dynamic lo
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
