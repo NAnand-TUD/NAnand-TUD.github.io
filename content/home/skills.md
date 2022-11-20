@@ -27,7 +27,7 @@ feature:
     icon_pack: fab
     name: Git
   - description:
-    icon: terminal
+    icon: linux
     icon_pack: far
     name: Terminal
 
