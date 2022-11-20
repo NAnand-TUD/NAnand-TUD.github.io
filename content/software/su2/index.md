@@ -14,7 +14,6 @@ image:
 links:
   - icon: github
     icon_pack: fab
-    name: Code
     url: 'https://github.com/su2code/SU2'
 url_pdf: ''
 url_slides: ''
