@@ -43,7 +43,7 @@ design:
   #   5 = Showcase
   view: masonry
   # background: {}
-  spacing: {padding: [0, 0, 0, 0]}
+  # spacing: {padding: [0, 0, 0, 0]}
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true
