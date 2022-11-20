@@ -1,12 +1,12 @@
 ---
 title: ParaBlade
 summary: CAD-Based Blade parametrization tool.
-tags:
-  - Deep Learning
+# tags:
+#   - Deep Learning
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: ''
+external_link: 'https://github.com/NAnand-TUD/parablade'
 
 image:
   caption: ParaBlade Logo
@@ -14,7 +14,6 @@ image:
 links:
   - icon: github
     icon_pack: fab
-    name: Code
     url_code: 'https://github.com/NAnand-TUD/parablade'
 url_pdf: ''
 url_slides: ''
