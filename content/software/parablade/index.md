@@ -14,11 +14,10 @@ image:
   url: https://github.com/NAnand-TUD/parablade/blob/master/docs/figures/ParaBladeLogo.png
 
 links:
-  # - icon: twitter
-  #   icon_pack: fab
-  #   name: Follow
-  #   url: https://twitter.com/georgecushen
-  url_code: 'https://github.com/NAnand-TUD/parablade'
+  - icon: github
+    icon_pack: fab
+    name: Code
+    url_code: 'https://github.com/NAnand-TUD/parablade'
 url_pdf: ''
 url_slides: ''
 url_video: ''

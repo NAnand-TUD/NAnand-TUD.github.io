@@ -13,11 +13,10 @@ image:
   focal_point: Smart
 
 links:
-  # - icon: twitter
-  #   icon_pack: fab
-  #   name: Follow
-  #   url: https://twitter.com/georgecushen
-  url_code: 'https://github.com/su2code/SU2'
+  - icon: github
+    icon_pack: fab
+    name: Code
+    url_code: 'https://github.com/su2code/SU2'
 url_pdf: ''
 url_slides: ''
 url_video: ''
