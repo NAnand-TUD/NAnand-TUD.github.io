@@ -41,7 +41,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: Showcase
+  view: masonry
   # background: {}
   spacing: {padding: [0, 0, 0, 0]}
 
