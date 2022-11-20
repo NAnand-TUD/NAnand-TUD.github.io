@@ -1,26 +1,26 @@
 ---
-title: 'DESIGN METHODOLOGY FOR SUPERSONIC RADIAL VANES OPERATING IN NON-IDEAL FLOW CONDITIONS'
+title: 'Adjoint-based optimisation of rocket engine turbine blades'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - B S Sanghera
   - N Anand
-  - S Vitale
+  - L Souverein
+  - L Penin
   - M Pini
-  - G J Otero-Rodriguez
-  - R Pecnik
 
-# Author notes (optional)
+# # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2017-05-01T00:00:00Z'
+date: '2021-05-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-05-01T00:00:00Z'
+publishDate: '2021-05-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,24 +30,24 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: ASME
-publication_short: Journal of Engineering for Gas Turbine and Power.
+publication_short: Turbo Expo 2021
 
-abstract: 
+abstract: Axial turbine stages for gas generator cycle type rocket engines typically employ highly-loaded supersonic stator vanes. Consequently, the flow pattern downstream of the vanes is characterized by shock waves which induce high-frequency excitation on the subsequent rotor. For this reason, the optimal design of the stator is crucial in the context of development of the next generation of high-performance rocket engines, where reusability is a principal design criterion. A thorough comprehension of the loss mechanisms combined with the adoption of automated optimisation techniques can therefore enable new stator designs that may provide large benefits in terms of overall turbine performance and lifespan.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: https://asmedigitalcollection.asme.org/GT/proceedings-abstract/GT2021/V02DT36A013/1119822
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
@@ -69,14 +69,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 # projects:
-#   - []
+#   - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: []
+# slides: example
 ---
 
 {{% callout note %}}
