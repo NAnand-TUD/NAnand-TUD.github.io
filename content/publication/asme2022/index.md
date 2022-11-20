@@ -31,19 +31,7 @@ publication_types: ['2']
 publication: ASME
 publication_short: Jorunal of Engineering in Gas Turbine and Power
 
-abstract: Currently, most of the adjoint-based design systems documented in the open literature assume that the
-fluid behaves as an ideal gas, are restricted to the optimization of a single row of blades, or are not suited
-to impose geometric constraints. In response to these limitations, this paper presents a gradient-based shape
-optimization framework for the aerodynamic design of turbomachinery blades operating under non-ideal
-thermodynamic conditions. The proposed design system supports the optimization of multiple blade rows and
-it integrates a CAD-based parametrization with a RANS flow solver and its discrete adjoint counterpart. The
-capabilities of the method were demonstrated by performing the design optimization of a single-stage axial
-turbine that employs isobutane (R600a) as working fluid. Notably, the aerodynamic optimization respected
-the minimum thickness constraint at the trailing edge of the stator and rotor blades and reduced the entropy
-generation within the turbine by 36%, relative to the baseline, which corresponds to a total-to-total isentropic
-efficiency increase of about 4 percentage points. The analysis of the flow field revealed that the performance
-improvement was achieved due to the reduction of the wake intensity downstream of the blades and the
-elimination of a shock-induced separation bubble at the suction side of the stator cascade.
+abstract: Currently, most of the adjoint-based design systems documented in the open literature assume that the fluid behaves as an ideal gas, are restricted to the optimization of a single row of blades, or are not suited to impose geometric constraints. In response to these limitations, this paper presents a gradient-based shape  optimization framework for the aerodynamic design of turbomachinery blades operating under non-ideal thermodynamic conditions. The proposed design system supports the optimization of multiple blade rows and it integrates a CAD-based parametrization with a RANS flow solver and its discrete adjoint counterpart. The capabilities of the method were demonstrated by performing the design optimization of a single-stage axial turbine that employs isobutane (R600a) as working fluid. Notably, the aerodynamic optimization respected the minimum thickness constraint at the trailing edge of the stator and rotor blades and reduced the entropy generation within the turbine by 36%, relative to the baseline, which corresponds to a total-to-total isentropic efficiency increase of about 4 percentage points. The analysis of the flow field revealed that the performance improvement was achieved due to the reduction of the wake intensity downstream of the blades and the elimination of a shock-induced separation bubble at the suction side of the stator cascade.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
