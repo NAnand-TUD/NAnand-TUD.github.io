@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr.ir. Nitish Anand
+title: Nitish Anand
 
 # Full name (for SEO)
 first_name: Nitish 

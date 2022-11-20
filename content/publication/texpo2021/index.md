@@ -6,7 +6,7 @@ title: 'Adjoint-based optimisation of rocket engine turbine blades'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - B S Sanghera
-  - N Anand
+  - admin
   - L Souverein
   - L Penin
   - M Pini

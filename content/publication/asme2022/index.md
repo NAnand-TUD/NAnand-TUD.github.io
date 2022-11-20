@@ -6,7 +6,7 @@ title: 'Multi-Row Adjoint-Based Optimization of NICFD Turbomachinery Using a Cad
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - R Agromayor
-  - N Anand
+  - admin
   - M Pini
   - L O Nord
 

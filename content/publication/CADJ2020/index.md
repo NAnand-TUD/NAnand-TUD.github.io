@@ -6,7 +6,7 @@ title: 'A Unified Geometry Parametrization Method for Turbomachinery Blades'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - R Agromayor
-  - N Anand
+  - admin
   - JD Müller
   - M Pini
   - LO Nord
