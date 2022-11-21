@@ -32,10 +32,10 @@ publication_types: ['2']
 publication: ASME
 publication_short: Journal of Engineering for Gas Turbine and Power.
 
-abstract: 
+abstract: The stator vanes of high-temperature organic Rankine cycle (ORC) radial-inflow turbines (RIT) operate under severe expansion ratios and the associated fluid-dynamic losses account for nearly two-thirds of the total losses generated within the blading passages. The efficiency of the machine can strongly benefit from specialized high-fidelity design methods able to provide shapes attenuating shock wave formation, consequently reducing entropy generation across the shock-wave and mitigating shock-wave boundary layer interaction. Shape optimization is certainly a viable option to deal with supersonic ORC stator design, but it is computationally expensive. In this work, a robust method to approach the problem at reduced computational cost is documented. The method consists of a procedure encompassing the method of characteristics (MoC), extended to nonideal fluid flow, for profiling the diverging part of the nozzle. The subsonic section and semibladed suction side are retrieved using a simple conformal geometrical transformation. The method is applied to design a supersonic ORC stator working with Toluene vapor, for which two blade shapes were already available. The comparison of fluid-dynamic performance clearly indicates that the MoC-Based method is able to provide the best results with the lowest computational effort, and is therefore suitable to be used in a systematic manner for drawing general design guidelines.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
