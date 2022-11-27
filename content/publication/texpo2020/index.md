@@ -31,7 +31,7 @@ publication_types: ['1']
 publication: ASME
 publication_short: Turbo Expo 2020
 
-abstract: 
+abstract: Turbomachinery blades characterized by highly-loaded, slender profiles and operating under unsteady flow may suffer from aeroelastic shortcomings, like forced response and flutter. One of the ways to mitigate these aeroelastic effects is to redesign the blade profiles, so as to increase aero-damping and decrease aero-forcing. Design optimization based on high-fidelity aeroelastic analysis methods is a formidable task due to the inherent computational cost. This work presents an adjoint-based aeroelastic shape-optimization framework based on reduced order methods for flow analysis and forced response computation. The flow analysis is carried out through a multi-frequency fully-turbulent harmonic balance method, while the forced response is computed by means of the energy method. The capability of the design framework is demonstrated by optimizing two candidate cascades, namely, i) a transonic compressor cascade and, ii) a supersonic impulse turbine rotor operating with toluene as working fluid, initially designed by means of the method of waves. The outcomes of the optimization show significant improvements in terms of forced-response in both cases as a consequence of aero-damping enhancement.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
