@@ -101,8 +101,10 @@ email: 'nitish.ug2@gmail.com'
 highlight_name: true
 ---
 
-Nitish is a young doctorate from the Delft University of Technology. He specializes in advanced fluid dynamics, numerical methods, optimization and adjoint methods. He is an expert in adjoint-based shape optimization methods.
+Nitish is a young doctorate from the Delft University of Technology. He specializes in advanced fluid dynamics, numerical methods, optimization and adjoint methods.
 
 Currently, he is working as a Senior Researcher at the Thermal Energy Systems group (THES) of Vlaams Instelling Voor Technologisch Onderzoek (VITO), Belgium. His research areas include the analysis and design of thermal energy conversion devices.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+He is a self learnt programmer and is a developed of *ParaBlade* and *openMOC* research codes. Besides he is an active contributor to the open-source CFD-Suite *SU2*.
+
+{{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
