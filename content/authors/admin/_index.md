@@ -103,8 +103,8 @@ highlight_name: true
 
 Nitish is a young doctorate from the Delft University of Technology. He specializes in advanced fluid dynamics, numerical methods, optimization and adjoint methods.
 
-Currently, he is working as a Senior Researcher at the Thermal Energy Systems group (THES) of Vlaams Instelling Voor Technologisch Onderzoek (VITO), Belgium. His research areas include the analysis and design of thermal energy conversion devices.
+Currently he is working as a Senior Researcher at the Thermal Energy Systems group (THES) of Vlaams Instelling Voor Technologisch Onderzoek (VITO), Belgium. His research areas include the analysis and design of thermal energy conversion devices.
 
-He is a self learnt programmer and is a developed of *ParaBlade* and *openMOC* research codes. Besides he is an active contributor to the open-source CFD-Suite *SU2*.
+He is a self learnt programmer and is one of the developers of *ParaBlade* and *openMOC* research codes. Besides he is an active contributor to the open-source CFD-Suite *SU2*.
 
-{{< icon name="download" pack="fas" >}} Download his {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/resume.pdf" "newtab" >}}Resume{{< /staticref >}}.
